@@ -4,7 +4,7 @@
 
 ![Juan's github stats](https://github-readme-stats.vercel.app/api?username=jmbanda&theme=merko&show_icons=true&count_private=true)
 
-![Panacea Lab's github stats](https://github-readme-stats.vercel.app/api?username=panacealab&theme=merko&show_icons=true&count_private=true)
+![Panacea Lab's github stats](https://github-readme-stats.vercel.app/api?username=thepanacealab&theme=merko&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmbanda&langs_count=10&theme=merko)](https://github.com/jmbanda)
 
