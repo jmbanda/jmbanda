@@ -1,4 +1,4 @@
-### Helo there 👋, I am Juan M. Banda
+### Hello there 👋, I am Juan M. Banda
 
 [![Header](http://www.jmbanda.com/github_header.jpg "Header")](http://www.jmbanda.com)
 <p align='center'>
