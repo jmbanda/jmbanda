@@ -32,8 +32,7 @@ Programming Languages:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Shell](https://img.shields.io/badge/-Shell-1572B6?style=flat-square&logo=gnu-bash)
-![VIM](https://img.shields.io/badge/-Shell-1572B6?style=flat-square&logo=gnu-vim)
+![Shell](https://img.shields.io/badge/-Bash-1572B6?style=flat-square&logo=gnu-bash)
 
 Databases:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
@@ -49,6 +48,7 @@ Cloud Environments:
 
 Other Tools:
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![VIM](https://img.shields.io/badge/-VIM-1572B6?style=flat-square&logo=gnu-vim)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
