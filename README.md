@@ -37,7 +37,7 @@ Programming Languages:
 Databases:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![SQLServer](https://img.shields.io/badge/-SQLServer-black?style=flat-square&logo=sqlserver)
+![SQLServer](https://img.shields.io/badge/-SQLServer-black?style=flat-square&logo=microsoftsqlserver)
 ![Oracle](https://img.shields.io/badge/-Oracle-336791?style=flat-square&logo=oracle)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
