@@ -33,10 +33,11 @@ Programming Languages:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 Databases:
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Oracle](https://img.shields.io/badge/-Oracle-336791?style=flat-square&logo=oracle)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![SQLServer](https://img.shields.io/badge/-SQLServer-black?style=flat-square&logo=sqlserver)
+![Oracle](https://img.shields.io/badge/-Oracle-336791?style=flat-square&logo=oracle)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 Cloud Environments:
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
