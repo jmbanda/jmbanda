@@ -37,7 +37,7 @@ Programming Languages:
 Databases:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![SQLServer](https://img.shields.io/badge/-SQLServer-black?style=flat-square&logo=microsoftsqlserver)
+![SQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-black?style=flat-square&logo=microsoft-sql-server)
 ![Oracle](https://img.shields.io/badge/-Oracle-336791?style=flat-square&logo=oracle)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
@@ -60,7 +60,9 @@ Other Tools:
 ![jupyter](https://img.shields.io/badge/-JupyterNotebooks-181717?style=flat-square&logo=jupyter)
 ![colab](https://img.shields.io/badge/-Colab-181717?style=flat-square&logo=google)
 ![mapreduce](https://img.shields.io/badge/-Mapreduce-181717?style=flat-square&logo=mapReduce)
-![spark](https://img.shields.io/badge/-ApacheSpark-181717?style=flat-square&logo=ApacheSpark)
+![spark](https://img.shields.io/badge/-Apache%20Spark-181717?style=flat-square&logo=apache-spark)
+![solr](https://img.shields.io/badge/-Apache%20Solr-181717?style=flat-square&logo=apache-solr)
+
 
 Currently Learning:
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
