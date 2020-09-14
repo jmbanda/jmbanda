@@ -28,10 +28,17 @@ Programming Languages:
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Matlab](https://img.shields.io/badge/-matlab-00599C?style=flat-square&logo=matlab)
+![Matlab](https://img.shields.io/badge/-Matlab-00599C?style=flat-square&logo=Matlab)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+
+![CSS3](https://img.shields.io/badge/-Shell-Bash-informational-1572B6?style=flat-square&logo=gnu-bash)
+![CSS3](https://img.shields.io/badge/-Shell-VIM-informational-1572B6?style=flat-square&logo=gnu-vim)
+
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=0FA1DE)
+![](https://img.shields.io/badge/Shell-VIM-informational?style=flat&logo=gnu-bash&logoColor=white&color=0FA1DE)
 
 Databases:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
