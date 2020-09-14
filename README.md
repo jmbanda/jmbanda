@@ -2,6 +2,7 @@
 
 [![Header](http://www.jmbanda.com/github_header.jpg "Header")](http://www.jmbanda.com)
 <p align='center'>
+<a href="https://devpost.com/jmbanda"><img height="30" src="http://www.jmbanda.com/devpost_icon.png"></a>&nbsp;&nbsp;
 <a href="https://www.gihub.com/jmbanda"><img height="30" src="http://www.jmbanda.com/github_icon.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jmbanda/"><img height="30" src="http://www.jmbanda.com/linkedin_icon.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/drjmbanda"><img height="30" src="http://www.jmbanda.com/twitter_icon.png"></a>&nbsp;&nbsp;
