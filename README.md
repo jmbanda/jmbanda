@@ -16,19 +16,10 @@ Hello, my name is Juan M. Banda and I am currently an assistant professor of com
 Yes, that is me in the middle of the picture at the ruins of Abu Simbel. I am an avid traveler and have visited over 100 countries during my travels.
 
 ## 🛠️ Tools and Technologies
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0FA1DE)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0FA1DE)
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=0FA1DE)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0FA1DE)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=0FA1DE)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&logoColor=white&color=0FA1DE)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0FA1DE)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=0FA1DE)
-![](https://img.shields.io/badge/Shell-VIM-informational?style=flat&logo=gnu-bash&logoColor=white&color=0FA1DE)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=0FA1DE)
-
+Operating Systems:
 ![Windows](https://img.shields.io/badge/-windows-black?style=flat-square&logo=windows)
 ![Linux](https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux)
+![Centos](https://img.shields.io/badge/-centos-black?style=flat-square&logo=centos)
 
 Programming Languages:
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
