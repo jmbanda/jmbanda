@@ -18,8 +18,10 @@ Yes, that is me in the middle of the picture at the ruins of Abu Simbel. I am an
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0FA1DE)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0FA1DE)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=0FA1DE)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&logoColor=white&color=0FA1DE)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0FA1DE)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=0FA1DE)
+![](https://img.shields.io/badge/Shell-VIM-informational?style=flat&logo=gnu-bash&logoColor=white&color=0FA1DE)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=0FA1DE)
 
 ## 📊 Github Statistics
