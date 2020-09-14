@@ -2,13 +2,13 @@
 
 [![Header](http://www.jmbanda.com/github_header.jpg "Header")](http://www.jmbanda.com)
 <p align='center'>
-<a href="https://devpost.com/jmbanda"><img src="http://www.jmbanda.com/devpost_icon.png"></a>&nbsp;&nbsp;
-<a href="https://www.gihub.com/jmbanda"><img height="30" src="http://www.jmbanda.com/github_icon.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jmbanda/"><img height="30" src="http://www.jmbanda.com/linkedin_icon.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/drjmbanda"><img height="30" src="http://www.jmbanda.com/twitter_icon.png"></a>&nbsp;&nbsp;
-<a href="https://500px.com/jbanda"><img height="30" src="http://www.jmbanda.com/500px_icon.png"></a>&nbsp;&nbsp;
-<a href="https://scholar.google.com/citations?user=lCgSjYAAAAAJ&hl=en"><img height="30" src="http://www.jmbanda.com/google_scholar_icon.png"></a>&nbsp;&nbsp;
-<a href="https://www.researchgate.net/profile/Juan_Banda"><img height="30" src="http://www.jmbanda.com/research_gate_icon.png"></a>
+<a href="https://devpost.com/jmbanda"><img height="48" src="http://www.jmbanda.com/devpost_icon.png"></a>&nbsp;&nbsp;
+<a href="https://www.gihub.com/jmbanda"><img height="48" src="http://www.jmbanda.com/github_icon.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jmbanda/"><img height="48" src="http://www.jmbanda.com/linkedin_icon.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/drjmbanda"><img height="48" src="http://www.jmbanda.com/twitter_icon.png"></a>&nbsp;&nbsp;
+<a href="https://500px.com/jbanda"><img height="48" src="http://www.jmbanda.com/500px_icon.png"></a>&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=lCgSjYAAAAAJ&hl=en"><img height="48" src="http://www.jmbanda.com/google_scholar_icon.png"></a>&nbsp;&nbsp;
+<a href="https://www.researchgate.net/profile/Juan_Banda"><img height="48" src="http://www.jmbanda.com/research_gate_icon.png"></a>
 </p>
 
 Hello, my name is Juan M. Banda and I am currently an assistant professor of computer science at Georgia State University. In my research lab, Panacea Lab, we aim to build machine learning, computer vision, and NLP methods that help to generate insights from multi-modal large-scale data sources. With applications to precision medicine, medical informatics, astroinformatics and other domains, our work addresses domain-specific problems with data science methods and practices. As an engineer at heart and practice for the last 20 years, I have used Python, Bash, ontologies, and NLP tools to build pipelines to annotate over 68 million clinical notes. I have built custom ETLs to map over 8 million patient electronic health records, from 4 institutions, to common data models (OMOP) for large scale analytics and machine learning purposes. I have designed pipelines, databases, and processes to build research infrastructure for my current and previous labs. I have used R, SQL, Matlab, Perl, Java, Javascript, and other languages to acquire, clean and operationalize data from multiple sources. I have mined over 9 billion Tweets for NLP tasks to gain insights from them. In my earlier days, I built content-based image retrieval systems for NASA’s SDO mission, with capacity to process and index over 40,000 images daily, and provide computer vision-aided similarity search for images. I started my engineering days designing and developing point-of-sale systems written in Visual Basic. Apart from my technical skills, I have strong communication and writing skills (over 50 refereed publications) and management skills (I have managed over 40 employees and 20 students). With the desire of improving patient outcomes, medical care and building things that change people’s lives, I am committed to releasing all my work via open-source licenses following the FAIR data sharing principles.
