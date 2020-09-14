@@ -50,11 +50,15 @@ Other Tools:
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-181717?style=flat-square&logo=tensorflow)
 ![Pandas](https://img.shields.io/badge/-Pandas-181717?style=flat-square&logo=pandas)
 ![WEKA](https://img.shields.io/badge/-WEKA-181717?style=flat-square&logo=WEKA)
+![NLTK](https://img.shields.io/badge/-NLTK-181717?style=flat-square&logo=NLTK)
+![Spacy](https://img.shields.io/badge/-Spacy-181717?style=flat-square&logo=Spacy)
 ![numpy](https://img.shields.io/badge/-Numpy-181717?style=flat-square&logo=Numpy)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![VIM](https://img.shields.io/badge/-VIM-1572B6?style=flat-square&logo=gnu-vim)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![jupyter](https://img.shields.io/badge/-JupyterNotebooks-181717?style=flat-square&logo=jupyter)
+![colab](https://img.shields.io/badge/-Colab-181717?style=flat-square&logo=colaboratory)
 
 Currently Learning:
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
