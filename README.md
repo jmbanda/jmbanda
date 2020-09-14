@@ -1,4 +1,4 @@
-### Hello there 👋, I am Juan M. Banda
+## Hello there 👋, I am Juan M. Banda
 
 [![Header](http://www.jmbanda.com/github_header.jpg "Header")](http://www.jmbanda.com)
 <p align='center'>
@@ -14,14 +14,14 @@ Hello, my name is Juan M. Banda and I am currently an assistant professor of com
 
 Yes, that is me in the middle of the picture at the ruins of Abu Simbel. I am an avid traveler and have visited over 100 countries during my travels.
 
-# 🛠️ Tools and Technologies
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+## 🛠️ Tools and Technologies
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0FA1DE)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0FA1DE)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0FA1DE)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=0FA1DE)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=0FA1DE)
 
-# 📊 Github Statistics
+## 📊 Github Statistics
 ![Juan's github stats](https://github-readme-stats.vercel.app/api?username=jmbanda&theme=merko&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmbanda&langs_count=10&theme=merko&layout=compact)](https://github.com/jmbanda)
