@@ -32,6 +32,8 @@ Yes, that is me in the middle of the picture at the ruins of Abu Simbel. I am an
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmbanda&langs_count=10&theme=merko&layout=compact)](https://github.com/jmbanda)
 
+![](https://komarev.com/ghpvc/?username=jmbanda)
+
 <!--
 **jmbanda/jmbanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
