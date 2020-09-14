@@ -18,8 +18,9 @@ Yes, that is me in the middle of the picture at the ruins of Abu Simbel. I am an
 ## 🛠️ Tools and Technologies
 Operating Systems:
 ![Windows](https://img.shields.io/badge/-windows-black?style=flat-square&logo=windows)
-![Linux](https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux)
 ![Centos](https://img.shields.io/badge/-centos-black?style=flat-square&logo=centos)
+![Ubuntu](https://img.shields.io/badge/-ubuntu-black?style=flat-square&logo=ubuntu)
+![Macos](https://img.shields.io/badge/-macos-black?style=flat-square&logo=macos)
 
 Programming Languages:
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
