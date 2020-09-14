@@ -49,8 +49,8 @@ Cloud Environments:
 Other Tools:
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-181717?style=flat-square&logo=tensorflow)
 ![Pandas](https://img.shields.io/badge/-Pandas-181717?style=flat-square&logo=pandas)
-![scikit-learn](https://img.shields.io/badge/-scikit-learn-181717?style=flat-square&logo=scikit-learn)
-![numpy](https://img.shields.io/badge/-numpy-181717?style=flat-square&logo=numpy)
+![WEKA](https://img.shields.io/badge/-WEKA-181717?style=flat-square&logo=WEKA)
+![numpy](https://img.shields.io/badge/-Numpy-181717?style=flat-square&logo=Numpy)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![VIM](https://img.shields.io/badge/-VIM-1572B6?style=flat-square&logo=gnu-vim)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
