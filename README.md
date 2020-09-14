@@ -58,7 +58,7 @@ Other Tools:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![jupyter](https://img.shields.io/badge/-JupyterNotebooks-181717?style=flat-square&logo=jupyter)
-![colab](https://img.shields.io/badge/-Colab-181717?style=flat-square&logo=colaboratory)
+![colab](https://img.shields.io/badge/-Colab-181717?style=flat-square&logo=google)
 ![mapreduce](https://img.shields.io/badge/-Mapreduce-181717?style=flat-square&logo=mapReduce)
 ![spark](https://img.shields.io/badge/-ApacheSpark-181717?style=flat-square&logo=ApacheSpark)
 
