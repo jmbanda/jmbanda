@@ -59,6 +59,8 @@ Other Tools:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![jupyter](https://img.shields.io/badge/-JupyterNotebooks-181717?style=flat-square&logo=jupyter)
 ![colab](https://img.shields.io/badge/-Colab-181717?style=flat-square&logo=colaboratory)
+![mapreduce](https://img.shields.io/badge/-Mapreduce-181717?style=flat-square&logo=mapreduce)
+![spark](https://img.shields.io/badge/-Spakr-181717?style=flat-square&logo=spark)
 
 Currently Learning:
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
