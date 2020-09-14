@@ -16,6 +16,8 @@ Yes, that is me in the middle of the picture at the ruins of Abu Simbel. I am an
 
 ## 🛠️ Tools and Technologies
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0FA1DE)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0FA1DE)
+![](https://img.shields.io/badge/OS-MacOSX-informational?style=flat&logo=macosx&logoColor=white&color=0FA1DE)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0FA1DE)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=0FA1DE)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&logoColor=white&color=0FA1DE)
