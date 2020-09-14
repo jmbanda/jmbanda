@@ -15,7 +15,7 @@ Hello, my name is Juan M. Banda and I am currently an assistant professor of com
 Yes, that is me in the middle of the picture at the ruins of Abu Simbel. I am an avid traveler and have visited over 100 countries during my travels.
 
 # 🛠️ Tools and Technologies
-(https://badgen.net/badge/icon/postgresql?icon=postgresql&label)
+<img height="30" src="https://badgen.net/badge/icon/postgresql?icon=postgresql&label"></a>
 
 ![Juan's github stats](https://github-readme-stats.vercel.app/api?username=jmbanda&theme=merko&show_icons=true&count_private=true)
 
