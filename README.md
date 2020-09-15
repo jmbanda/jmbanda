@@ -29,7 +29,7 @@ Programming Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![Matlab](https://img.shields.io/badge/-Matlab-black?style=flat-square&logo=mathworks)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Shell](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
