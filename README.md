@@ -20,7 +20,7 @@ Operating Systems:
 ![Windows](https://img.shields.io/badge/-windows-black?style=flat-square&logo=windows)
 ![Centos](https://img.shields.io/badge/-centos-black?style=flat-square&logo=centos)
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-black?style=flat-square&logo=ubuntu)
-![Macos](https://img.shields.io/badge/-macos-black?style=flat-square&logo=macos)
+![Macos](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple)
 
 Programming Languages:
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
@@ -54,7 +54,7 @@ Other Tools:
 ![Spacy](https://img.shields.io/badge/-Spacy-181717?style=flat-square&logo=Spacy)
 ![numpy](https://img.shields.io/badge/-Numpy-181717?style=flat-square&logo=Numpy)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-![VIM](https://img.shields.io/badge/-VIM-1572B6?style=flat-square&logo=gnu-vim)
+![VIM](https://img.shields.io/badge/-VIM-1572B6?style=flat-square&logo=vim)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![jupyter](https://img.shields.io/badge/-JupyterNotebooks-181717?style=flat-square&logo=jupyter)
