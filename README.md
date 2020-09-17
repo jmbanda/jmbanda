@@ -13,7 +13,7 @@
 
 Hello, my name is Juan M. Banda and I am currently an assistant professor of computer science at Georgia State University. In my research lab, Panacea Lab, we aim to build machine learning, computer vision, and NLP methods that help to generate insights from multi-modal large-scale data sources. With applications to precision medicine, medical informatics, astroinformatics and other domains, our work addresses domain-specific problems with data science methods and practices. As an engineer at heart and practice for the last 20 years, I have used Python, Bash, ontologies, and NLP tools to build pipelines to annotate over 68 million clinical notes. I have built custom ETLs to map over 8 million patient electronic health records, from 4 institutions, to common data models (OMOP) for large scale analytics and machine learning purposes. I have designed pipelines, databases, and processes to build research infrastructure for my current and previous labs. I have used R, SQL, Matlab, Perl, Java, Javascript, and other languages to acquire, clean and operationalize data from multiple sources. I have mined over 9 billion Tweets for NLP tasks to gain insights from them. In my earlier days, I built content-based image retrieval systems for NASA’s SDO mission, with capacity to process and index over 40,000 images daily, and provide computer vision-aided similarity search for images. I started my engineering days designing and developing point-of-sale systems written in Visual Basic. Apart from my technical skills, I have strong communication and writing skills (over 50 refereed publications) and management skills (I have managed over 40 employees and 20 students). With the desire of improving patient outcomes, medical care and building things that change people’s lives, I am committed to releasing all my work via open-source licenses following the FAIR data sharing principles.
 
-Yes, that is me in the middle of the picture at the ruins of Abu Simbel. I am an avid traveler and have visited over 100 countries during my travels.
+✈️ Yes, that is me in the middle of the picture at the ruins of Abu Simbel. I am an avid traveler and have visited over 100 countries during my travels 🌎.
 
 ## 🛠️ Tools and Technologies
 Operating Systems:
@@ -76,22 +76,7 @@ Currently Learning:
 |---------|-------|-------|--------|---------------|
 | Covid-19 Twitter dataset | ![GitHub stars](https://img.shields.io/github/stars/thepanacealab/covid19_twitter?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/thepanacealab/covid19_twitter?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/thepanacealab/covid19_twitter?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/thepanacealab/covid19_twitter?style=for-the-badge) |
 | Social Media Mining Toolkit | ![GitHub stars](https://img.shields.io/github/stars/thepanacealab/SMMT?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/thepanacealab/SMMT?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/thepanacealab/SMMT?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/thepanacealab/SMMT?style=for-the-badge) |
-
+| APHRODITE | ![GitHub stars](https://img.shields.io/github/stars/OHDSI/Aphrodite?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/OHDSI/Aphrodite?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/OHDSI/Aphrodite?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/OHDSI/Aphrodite?style=for-the-badge) |
 
 
 ![](https://komarev.com/ghpvc/?username=jmbanda)
-
-<!--
-**jmbanda/jmbanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
