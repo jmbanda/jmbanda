@@ -63,7 +63,6 @@ Other Tools:
 ![spark](https://img.shields.io/badge/-Apache%20Spark-181717?style=flat-square&logo=apache-spark)
 ![solr](https://img.shields.io/badge/-Apache%20Solr-181717?style=flat-square&logo=apache-solr)
 
-
 Currently Learning:
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
@@ -72,6 +71,12 @@ Currently Learning:
 ![Juan's github stats](https://github-readme-stats.vercel.app/api?username=jmbanda&theme=merko&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmbanda&langs_count=10&theme=merko&layout=compact)](https://github.com/jmbanda)
+
+<h3>Lab-related projects</h3>
+
+| Project  🚧 | Stars :star: | Forks 🍴 | Issues ❌ | Pull Requests 🌿 |
+|---------|-------|-------|--------|---------------|
+| Covid-19 Twitter dataset | ![GitHub stars](https://img.shields.io/github/stars/thepanacealab/covid19_twitter?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/thepanacealab/covid19_twitter?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/thepanacealab/covid19_twitter?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/thepanacealab/covid19_twitter?style=for-the-badge) |
 
 ![](https://komarev.com/ghpvc/?username=jmbanda)
 
