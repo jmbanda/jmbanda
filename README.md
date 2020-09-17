@@ -75,6 +75,9 @@ Currently Learning:
 | Project  🚧 | Stars :star: | Forks 🍴 | Issues ❌ | Pull Requests 🌿 |
 |---------|-------|-------|--------|---------------|
 | Covid-19 Twitter dataset | ![GitHub stars](https://img.shields.io/github/stars/thepanacealab/covid19_twitter?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/thepanacealab/covid19_twitter?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/thepanacealab/covid19_twitter?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/thepanacealab/covid19_twitter?style=for-the-badge) |
+| Social Media Mining Toolkit | ![GitHub stars](https://img.shields.io/github/stars/thepanacealab/SMMT?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/thepanacealab/SMMT?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/thepanacealab/SMMT?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/thepanacealab/SMMT?style=for-the-badge) |
+
+
 
 ![](https://komarev.com/ghpvc/?username=jmbanda)
 
