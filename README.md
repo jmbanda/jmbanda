@@ -77,5 +77,4 @@ Currently Learning:
 | Social Media Mining Toolkit | ![GitHub stars](https://img.shields.io/github/stars/thepanacealab/SMMT?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/thepanacealab/SMMT?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/thepanacealab/SMMT?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/thepanacealab/SMMT?style=for-the-badge) |
 | APHRODITE | ![GitHub stars](https://img.shields.io/github/stars/OHDSI/Aphrodite?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/OHDSI/Aphrodite?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/OHDSI/Aphrodite?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/OHDSI/Aphrodite?style=for-the-badge) |
 
-
 ![](https://komarev.com/ghpvc/?username=jmbanda)
