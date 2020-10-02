@@ -67,6 +67,7 @@ Currently Learning:
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
 ## 📊 Github Statistics
+
 ![Juan's github stats](https://github-readme-stats.vercel.app/api?username=jmbanda&theme=merko&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmbanda&langs_count=10&theme=merko&layout=compact)](https://github.com/jmbanda)
 
 <h3>Lab-related projects</h3>
